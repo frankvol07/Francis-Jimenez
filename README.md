@@ -22,20 +22,18 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me gusta 
 
 ---
 
-## 📊 Estadísticas
+## 📊 Lenguajes que uso
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=6&theme=radical)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Gráfico de lenguajes](https://quickchart.io/chart?c={type:'pie',data:{labels:['C#','PHP','JavaScript','HTML','CSS'],datasets:[{data:[50,20,15,10,5]}]},options:{plugins:{legend:{position:'right'}}}})
 
 ---
 
 ## 🌐 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO)
-[![Correo](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)]()
 
 ---
 
 ### 🚀 "Sigue aprendiendo. Sigue creciendo. Nunca te detengas."
-
