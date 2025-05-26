@@ -24,15 +24,19 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me gusta 
 
 ## 📊 Lenguajes que uso
 
-![Gráfico de lenguajes](https://quickchart.io/chart?c={type:'pie',data:{labels:['C#','PHP','JavaScript','HTML','CSS'],datasets:[{data:[50,20,15,10,5]}]},options:{plugins:{legend:{position:'right'}}}})
-
+C#         ██████████████████████████████████████████ 50%
+PHP        ████████████████████                     20%
+JavaScript ██████████████                           15%
+HTML       █████████                                10%
+CSS        ████                                      5%
 ---
 
 ## 🌐 Conéctate conmigo
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)]()
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](francismigueljimenezpolanco@gmail.com
+)
+
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/francismiguel.jimenezpolanco)
 
 ---
 
