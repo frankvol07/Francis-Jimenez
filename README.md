@@ -22,13 +22,6 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me gusta 
 
 ---
 
-## 📊 Lenguajes que uso
-```text
-C#         ██████████████████████████████████████████ 50%
-PHP        ████████████████████                     20%
-JavaScript ██████████████                           15%
-HTML       █████████                                10%
-CSS        ████                                      5%
 
 ## 🌐 Conéctate conmigo
 
@@ -38,5 +31,12 @@ CSS        ████                                      5%
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/francismiguel.jimenezpolanco)
 
 ---
+## 📊 Lenguajes que uso
+```text
+C#         ██████████████████████████████████████████ 50%
+PHP        ████████████████████                     20%
+JavaScript ██████████████                           15%
+HTML       █████████                                10%
+CSS        ████                                      5%
 
-### 🚀 "Sigue aprendiendo. Sigue creciendo. Nunca te detengas."
+
